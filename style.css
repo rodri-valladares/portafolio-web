@@ -459,12 +459,16 @@ p{
     width: 100%;
     margin: 0 auto;
     display: block;
+
+    /*agrego */
+    height: 62%;
 }
 
 .portfolio-card img{
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    /* object-fit: cover; */
+    object-fit: fill;
 }
 
 .portfolio-card-info{
