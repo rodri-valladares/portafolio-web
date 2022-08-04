@@ -555,7 +555,7 @@ p{
 
     .about{
         display:grid;
-        grid-template-columns: 30% 30%;
+        grid-template-columns: 34% 30%;
         justify-content: space-evenly;
         /*justify-content: space-between;*/
         align-content: center;
